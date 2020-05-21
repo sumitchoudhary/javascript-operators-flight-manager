@@ -1,4 +1,8 @@
 function Flights() {
 
+    function calculateNumberOfFlights() {
+
+    }
+    
 }
 
